@@ -5,7 +5,7 @@
 	<groupId>com.thinkgem.jeesite</groupId>
 	<artifactId>base-manager</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 
 	<name>base-manager</name>
 	<url>http://maven.apache.org</url>
@@ -656,4 +656,11 @@
 		</plugins>
 	</build>
 
+	<modules>
+		<module>base-system</module>
+		<module>base-order</module>
+		<module>base-product</module>
+		<module>base-mkt</module>
+		<module>base-manager-service</module>
+	</modules>
 </project>
