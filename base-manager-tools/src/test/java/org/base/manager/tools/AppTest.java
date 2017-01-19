@@ -1,4 +1,4 @@
-package org.base.manager.service;
+package org.base.manager.tools;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
