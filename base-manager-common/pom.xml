@@ -8,20 +8,14 @@
     <version>1.0</version>
   </parent>
   <groupId>com.thinkgem.jeesite</groupId>
-  <artifactId>base-system</artifactId>
+  <artifactId>base-manager-common</artifactId>
   <version>1.0</version>
-  <name>base-system</name>
+  <name>base-manager-common</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
-
-    <dependency>
-      <groupId>com.thinkgem.jeesite</groupId>
-      <artifactId>base-manager-common</artifactId>
-      <version>1.0</version>
-    </dependency>
 
     <dependency>
       <groupId>junit</groupId>
