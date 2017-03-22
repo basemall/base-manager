@@ -22,7 +22,7 @@
 				ORDER BY ${page.orderBy}
 			</when>
 			<otherwise>
-				ORDER BY a.name
+				ORDER BY a.id
 			</otherwise>
 		</choose>
 	</select>
