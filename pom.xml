@@ -152,7 +152,7 @@
 		<dependency>
 			<groupId>com.ibase.mall</groupId>
 			<artifactId>base-common</artifactId>
-			<version>1.0</version>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
